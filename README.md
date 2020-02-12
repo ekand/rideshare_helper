@@ -1,4 +1,4 @@
-data_hailing
+Rideshare Helper
 ==============================
 
 What can rideshare drivers in Chicago do to earn more money?  
